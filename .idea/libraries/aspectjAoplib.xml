@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="aspectjAoplib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/aspectjAoplib" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/cp30lib" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/DBdriver" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/jstl" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/junit" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/loglib" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/mybatis" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/quartz" />
+      <root url="file://$PROJECT_DIR$/WebContent/WEB-INF/springlib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/aspectjAoplib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/cp30lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/DBdriver" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/jstl" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/junit" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/loglib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/mybatis" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/quartz" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/WebContent/WEB-INF/springlib" recursive="false" />
+  </library>
+</component>
